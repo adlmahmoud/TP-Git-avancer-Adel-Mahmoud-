@@ -39,3 +39,4 @@
 
 ![](capture/git_remote.png)
 
+![](capture/git_push.png)

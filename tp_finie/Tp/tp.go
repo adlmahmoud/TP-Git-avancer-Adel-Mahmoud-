@@ -46,5 +46,4 @@ func main() {
 	car.afficher_une_voiture()
 	car.changer_couleur("gris")
 	car.changer_couleur("Noir")
-	fmt.Println("test git reset")
 }
